@@ -48,23 +48,47 @@ I bridge **Data Science + Backend Engineering** to build intelligent infrastruct
 
 # 🛠 Tech Arsenal
 
-### 👨‍💻 Languages
-`Python` • `SQL`
+<p align="center">
 
-### 🚀 Backend
-`FastAPI` • `REST APIs` • `Clean Architecture` • `Repository Pattern`
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,linux,vscode" />
 
-### 🤖 AI Systems
-`Machine Learning` • `Deep Learning` • `LLMs`  
-`RAG Pipelines` • `Prompt Engineering`  
-`Vector Databases (Qdrant / FAISS)`  
-`Agentic AI Systems`
+</p>
 
-### 🗄 Databases
-`PostgreSQL` • `SAP HANA`
+---
 
-### ⚙ DevOps
-`Docker` • `Git` • `Linux`
+## 🤖 AI / Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-1f425f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-0A66C2?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗄 Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ⚙ DevOps & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+
+</p>
 
 ---
 
