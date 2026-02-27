@@ -21,7 +21,7 @@
 
 ---
 
-## 🔥 Core Focus
+# 🔥 Core Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM%20Applications-000000?style=for-the-badge&logo=openai&logoColor=white"/>
