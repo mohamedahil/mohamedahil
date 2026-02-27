@@ -47,14 +47,14 @@
 </p>
 
 
-### 🗄 Databases
+# 🗄 Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql," />
 
   
 
-### ⚙ DevOps & Tools
+# ⚙ DevOps & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,kafka,linux" />
