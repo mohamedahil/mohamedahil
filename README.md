@@ -12,7 +12,7 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mohamedahil&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -23,12 +23,12 @@ I design and deploy **enterprise-grade AI systems** that go beyond notebooks —
 systems that are modular, scalable, and production-ready.
 
 ### 🔥 Core Focus
-- LLM-Powered Applications
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI Workflows
-- Enterprise Document Intelligence
-- Business-Oriented Machine Learning
-- Clean Backend Architecture
+- LLM-Powered Applications  
+- Retrieval-Augmented Generation (RAG)  
+- Agentic AI Workflows  
+- Enterprise Document Intelligence  
+- Business-Oriented Machine Learning  
+- Clean Backend Architecture  
 
 ---
 
@@ -87,8 +87,8 @@ Credit scoring & enterprise financial intelligence models.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedahil&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedahil&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ Credit scoring & enterprise financial intelligence models.
 # 📈 Contribution Graph Animation
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahil&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
