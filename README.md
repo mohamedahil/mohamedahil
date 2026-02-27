@@ -11,6 +11,15 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+LLM+Systems+for+Real+Business+Impact&center=true&width=900&height=45&color=FF6F00&vCenter=true&size=22&gradient=true"/>
 </p>
 
+# Full Stack AI Engineer
+
+###  Developer Journey
+- I’m currently working on **Full-Stack AI projects**
+- I’m currently learning **Machine Learning** and **Deep Learning.**
+- I’m looking for **collaboration** on Machine Learning and Deep Learning projects
+- How to reach me: **mohamedahil.a2004@gmail.com**
+
+---
 
 ## 🔥 Core Focus
 
