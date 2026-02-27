@@ -15,20 +15,37 @@
   <img src="https://komarev.com/ghpvc/?username=mohamedahil&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<!-- Animated Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Architect+%7C+System+Thinker+%7C+Production+Builder;Enterprise-Grade+AI+Systems;Modular+%7C+Scalable+%7C+Production-Ready&center=true&width=850&height=45&color=58A6FF&vCenter=true&size=24"/>
+</p>
+
 ---
 
-# 🧠 AI Architect | System Thinker | Production Builder
+<p align="center">
+I design and deploy <b>enterprise-grade AI systems</b> that go beyond notebooks —  
+intelligent infrastructures that are:
+</p>
 
-I design and deploy **enterprise-grade AI systems** that go beyond notebooks —  
-systems that are modular, scalable, and production-ready.
+<p align="center">
+⚡ <b>Modular</b> &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 <b>Scalable</b> &nbsp;&nbsp;|&nbsp;&nbsp; 🔐 <b>Production-Ready</b>
+</p>
 
-### 🔥 Core Focus
-- LLM-Powered Applications  
-- Retrieval-Augmented Generation (RAG)  
-- Agentic AI Workflows  
-- Enterprise Document Intelligence  
-- Business-Oriented Machine Learning  
-- Clean Backend Architecture  
+---
+
+<h2 align="center">🔥 Core Focus</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM%20Applications-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-0ea5e9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-9333ea?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Document%20Intelligence-16a34a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Machine%20Learning-f59e0b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Backend%20Architecture-ef4444?style=for-the-badge"/>
+</p>
 
 ---
 
