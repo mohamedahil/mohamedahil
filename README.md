@@ -47,21 +47,46 @@ intelligent infrastructures that are:
   <img src="https://img.shields.io/badge/Clean%20Backend%20Architecture-ef4444?style=for-the-badge"/>
 </p>
 
+<!-- Animated Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+<h1 align="center">
+  🧠 AI Architect | System Thinker | Production Builder
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f1c2c,50:928dab,100:1f1c2c&height=120&section=header&text=Enterprise-Grade%20AI%20Systems&fontSize=28&fontColor=ffffff&animation=twinkling"/>
+</p>
+
+<p align="center">
+I design and deploy <b>enterprise-grade AI systems</b> that go beyond notebooks —
+</p>
+
+<p align="center">
+⚡ <b>Modular</b> &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 <b>Scalable</b> &nbsp;&nbsp;|&nbsp;&nbsp; 🔐 <b>Production-Ready</b>
+</p>
+
 ---
 
-# 🏗️ Architecture Philosophy
+<h2 align="center">🔥 Core Focus</h2>
 
-AI systems should be:
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM--Powered%20Applications-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-0ea5e9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-9333ea?style=for-the-badge"/>
+</p>
 
-✔ Scalable  
-✔ Modular  
-✔ Observable  
-✔ Secure  
-✔ Business-Driven  
+<p align="center">
+  <img src="https://img.shields.io/badge/Enterprise%20Document%20Intelligence-16a34a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business--Oriented%20Machine%20Learning-f59e0b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Backend%20Architecture-ef4444?style=for-the-badge"/>
+</p>
 
-I bridge **Data Science + Backend Engineering** to build intelligent infrastructure.
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 # 🛠 Tech Arsenal
 
